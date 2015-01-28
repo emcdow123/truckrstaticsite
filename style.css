@@ -1,0 +1,32 @@
+header {
+	padding: 10px 0;
+	background-color: rgba(17, 17, 17, .8);
+	position: fixed;
+	width: 100%;
+}
+
+nav {
+	margin: 0 auto;
+	width: 50%;
+}
+
+nav a {
+	width: 24.5%;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+}
+
+#home {
+	height: 1000px;
+	background-image: url(Truckr_Large_Transparent.png);
+	background-color: #00FF77;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#order {
+	height: 1000px;
+	background-color: #000000;
+}

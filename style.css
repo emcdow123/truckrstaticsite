@@ -20,10 +20,32 @@ nav a {
 
 #home {
 	height: 1000px;
-	background-image: url(Truckr_Large_Transparent.png);
-	background-color: #00FF77;
+	padding-top: 38px;
+	background-image: url(img/11.png);
 	background-repeat: no-repeat;
 	background-position: center;
+}
+
+#homelogo {
+	display: block;
+	margin: 15px auto;
+}
+
+#truckrmotto {
+	display: block;
+	max-width: 768px;
+	margin: 25px auto;
+	text-align: center;
+	font-size: 55px;
+}
+
+#truckrexplanation {
+	background-color: rgba(255, 255, 255, .6);
+	padding: 25px;
+	max-width: 768px;
+	margin: 25px auto;
+	text-align: center;
+	font-size: 24px;
 }
 
 #order {
